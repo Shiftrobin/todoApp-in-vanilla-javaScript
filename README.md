@@ -4,9 +4,11 @@ todoApp-in-vanilla-javaScript
 app_description:
 todoApp in vanilla javaScript and localStorage
 
--html
--css
--js 
+<ul>
+  <li>-html</li>
+  <li>-css</li>
+  <li>-js</li>
+</ul>
  - setTimeOut
  - localStorage
  - array
