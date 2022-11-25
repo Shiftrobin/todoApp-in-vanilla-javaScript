@@ -15,6 +15,8 @@ todoApp in vanilla javaScript and localStorage
  <li>step 8:  read todo</li>
 </ul>
 
+<br/><br/>
+
 <ul>
   <li>-html</li>
   <li>-css</li>
