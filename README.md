@@ -7,14 +7,18 @@ todoApp in vanilla javaScript and localStorage
 <ul>
   <li>-html</li>
   <li>-css</li>
-  <li>-js</li>
+  <li>-js 
+    <ul>
+     <li>- setTimeOut</li>
+     <li>- localStorage</li>
+     <li>- array</li>
+     <li>- mapping</li> 
+     <li>- dom manipulation</li> 
+     <li>- event listeners</li>
+    </ul>
+  </li>
 </ul>
- - setTimeOut
- - localStorage
- - array
- - mapping 
- - dom manipulation 
- - event listeners
+
 <ul>
  <li>step 1 : Create the html basic structure</li>
  <li>step 2 : style html elements</li>
